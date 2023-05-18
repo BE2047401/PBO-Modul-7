@@ -174,6 +174,7 @@ public class Gui extends javax.swing.JFrame {
             }
         });
 
+        btnFindBook.setBackground(new java.awt.Color(51, 255, 51));
         btnFindBook.setText("Find Book List");
         btnFindBook.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
